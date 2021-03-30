@@ -1,5 +1,5 @@
 import React from "react";
-import { View } from "react-native";
+import { View, StyleSheet, Text } from "react-native";
 
 const WHITE = "rgb(100, 133, 68)";
 const BLACK = "rgb(230, 233, 198)";
