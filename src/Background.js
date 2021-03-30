@@ -1,7 +1,7 @@
 import React from "react";
 import { View, StyleSheet, Text } from "react-native";
 
-const WHITE = "rgb(100, 133, 68)";
+const WHITE = "rgb(0,0, 220)";
 const BLACK = "rgb(230, 233, 198)";
 
 const styles = StyleSheet.create({
